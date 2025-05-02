@@ -18,8 +18,8 @@ Le projet est composé de deux parties principales :
 
 1. Cloner le repository :
 ```bash
-git clone [URL_DU_REPO]
-cd Talent4Startups
+git clone https://github.com/Issa-1996/Talent4Startups_Issa_SARR.git
+cd Talent4Startups_Issa_SARR
 ```
 
 2. Configuration de l'environnement :
